@@ -2,7 +2,7 @@
 
 ## Performing analysis on Kickstarter data to uncover trends 
 
-### To assist Louise in determining how different Kickstarter campaigns fared in relation to their launch dates and funding goals
+#### To assist Louise in determining how different Kickstarter campaigns fared in relation to their launch dates and funding goals
 
 ## Analysis and Challenges
 
@@ -15,13 +15,10 @@
 - ![Outcomes Based on Goal](https://user-images.githubusercontent.com/93271297/139292162-a487961b-3f37-4ae1-b25f-9d3dcefb0b05.png)
 
 ### Challenges and Difficulties Encountered
+- The biggest challenge encountered were the functions that needed to be used to pull the necessary data from the Kickstarter dataset. Ensuring that the criteria for those is correctly input then ensures that it is pulling the accurate data you need to visualize any trends.
 
 ## Results
 
 - We can conclude that Theater campaigns have the most success when launched during the summer months of May, June, and July and that few campaigns are canceled throughout the year.
 
 - We can conclude that Play campaigns typically have a higher success rate when the target goal is lower.
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
